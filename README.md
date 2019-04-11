@@ -1,5 +1,6 @@
 # Project Description
-In this project, I've applied the CRISP-DM process to solve business question using Developer Survey dataset from Stack Overflow CRISP-DM (CRoss-Industry Standard Process for Data Mining) process consists of 6 steps as follows:
+In this project, I've applied the CRISP-DM process to solve business question using Developer Survey dataset from Stack Overflow 
+CRISP-DM (CRoss-Industry Standard Process for Data Mining) process consists of 6 steps as follows:
 1. Develop Business Understanding OR forming questions to be answered
 2. Develop Data Understanding
 3. Preparing Data
